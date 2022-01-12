@@ -49,11 +49,11 @@ role :db,  %w{alexwallot@159.203.4.165}
 #
 # Global options
 # --------------
-#  set :ssh_options, {
-#    keys: %w(/home/rlisowski/.ssh/id_rsa),
-#    forward_agent: false,
+  set :ssh_options, {
+    keys: %w(/home/alexwallot/.ssh/id_rsa),
+    forward_agent: false,
 #    auth_methods: %w(password)
-#  }
+  }
 #
 # The server-based syntax can be used to override options:
 # ------------------------------------
