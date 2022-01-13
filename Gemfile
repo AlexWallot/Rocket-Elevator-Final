@@ -124,3 +124,5 @@ gem 'rails-controller-testing'
 gem 'authtrail'
 
 gem 'rails-letsencrypt'
+
+gem 'newrelic_rpm'
